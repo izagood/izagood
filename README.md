@@ -15,12 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About
-
-Back-end software engineer who mainly uses Java, Kotlin programming language and Spring Boot framework  
-Implemented order and payment systems
-
-Interested in back-end design, optimization, and refectoring  
-Recently, I am interested in event brokers using Confluent Kafka
-
-Also leading the side project Github organization(https://github.com/MSMNL)
